@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c" />
-  <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white" alt="asm" />
-  <img src="https://img.shields.io/badge/Pascal-008EC0?style=for-the-badge&logo=pascal&logoColor=white" alt="pascal" />
 </p>
 
 ### ⚙️ Backend & Infrastructure
@@ -22,10 +20,6 @@
 
 > **Frameworks & Crates:** `Axum` • `SQLx` • `Tower` • `Tracing` • `Serde` • `Tokio`
 
-### 🔍 Specialized Skills
-* **Computer Vision:** Tesseract OCR, OpenCV (Python/Rust)
-* **Systems:** Low-level memory management, x86 Architecture
-* **Logic:** Formal Logic, Natural Deduction, Proof Trees
 <!--
 **xv4t/xv4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
