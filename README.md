@@ -1,9 +1,31 @@
 ## Hi there 👋
 
-### 🛠 Languages & Tools
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🛠 Languages & Tools
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c" />
+  <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white" alt="asm" />
+  <img src="https://img.shields.io/badge/Pascal-008EC0?style=for-the-badge&logo=pascal&logoColor=white" alt="pascal" />
+</p>
+
+### ⚙️ Backend & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+</p>
+
+> **Frameworks & Crates:** `Axum` • `SQLx` • `Tower` • `Tracing` • `Serde` • `Tokio`
+
+### 🔍 Specialized Skills
+* **Computer Vision:** Tesseract OCR, OpenCV (Python/Rust)
+* **Systems:** Low-level memory management, x86 Architecture
+* **Logic:** Formal Logic, Natural Deduction, Proof Trees
 <!--
 **xv4t/xv4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
