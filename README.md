@@ -19,9 +19,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </p>
 
-> **Frameworks & Crates:** `Axum` • `SQLx` • `Tower` • `Tracing` • `Serde` • `Tokio`
+
 
 <!--
+> **Frameworks & Crates:** `Axum` • `SQLx` • `Tower` • `Tracing` • `Serde` • `Tokio`
 **xv4t/xv4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
